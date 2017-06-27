@@ -6,6 +6,7 @@ driver:
   customize:
       memory: 2048
 
+
 provisioner:
   name: chef_solo
 
